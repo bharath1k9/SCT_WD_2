@@ -3,8 +3,7 @@
 Task 2 of the Web Development Internship at **SkillCraft Technology**.
 
 ## 🔗 Live Demo
-_Add your GitHub Pages link here after deploying, e.g._
-`https://<your-username>.github.io/SCT_WD_2/`
+https://bharath1k9.github.io/SCT_WD_2/
 
 ## 📌 Task Objective
 Build an interactive, user-friendly stopwatch that supports:
